@@ -191,7 +191,7 @@
 			"fieldName"		"MainTimeBG"
 			"xpos"			"15"
 			"ypos"			"15"	[$WIN32]
-			"zpos"			"0"
+			"zpos"			"-5"
 			"wide"			"60"
 			"tall"			"22"
 			"autoResize"	"0"

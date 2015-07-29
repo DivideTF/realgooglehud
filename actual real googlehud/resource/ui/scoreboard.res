@@ -1010,7 +1010,43 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"fgcolor"	"GoogleBlue"
-		}		
+		}
+		"Dot"
+		{
+			"ControlName"		"CExLabel"
+			"fieldName"		"Dot"
+			"font"			"RobotoBold8"
+			"labelText"		"•"
+			"textAlignment"		"east"
+			"xpos"			"106"
+			"ypos"			"35"	[$WIN32]
+			"zpos"			"3"
+			"wide"			"35"
+			"tall"			"20"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"fgcolor"	"GoogleLightGray"
+		}
+		"Dot2"
+		{
+			"ControlName"		"CExLabel"
+			"fieldName"		"Dot2"
+			"font"			"RobotoBold8"
+			"labelText"		"•"
+			"textAlignment"		"east"
+			"xpos"			"133"
+			"ypos"			"35"	[$WIN32]
+			"zpos"			"3"
+			"wide"			"35"
+			"tall"			"20"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"fgcolor"	"GoogleLightGray"
+		}			
 		"DeathsFake"
 		{
 			"ControlName"		"CExLabel"
